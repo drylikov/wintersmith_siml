@@ -51,3 +51,5 @@ Next, when you run `wintersmith build`, or `wintersmith preview`, files with `si
 
 Alternativly, you could run `wintersmith build --plugins wintersmith-siml`
 
+
+
