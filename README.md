@@ -17,6 +17,7 @@
 
 ## Getting Started
 
+
 This plugin requires Wintersmith.
 
 Checkout [Wintersmith](http://jnordberg.github.io/wintersmith/), if you haven't before.
